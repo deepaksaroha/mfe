@@ -126,7 +126,7 @@ export default function Album() {
                                 <Card className={classes.card}>
                                     <CardMedia
                                         className={classes.cardMedia}
-                                        image="https://source.unsplash.com/random"
+                                        image="https://random-image-pepebigotes.vercel.app/api/random-image"
                                         title="Image title"
                                     />
                                     <CardContent
